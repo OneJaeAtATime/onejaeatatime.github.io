@@ -7,21 +7,20 @@
 	"items": [
 		
 			{
+				"id": "http://onejaeatatime.micro.blog/2023/03/09/slight-change-to.html",
+				
+				"content_html": "<p>Slight change to my Fediverse user. I have migrated to <a href=\"https://micro.blog/OneJaeAtATime@OneJaeAtATime.com\">@OneJaeAtATime@OneJaeAtATime.com</a>. I figured it was worth moving my Micro.blog to my own domain.</p>\n",
+				"content_text": "Slight change to my Fediverse user. I have migrated to [@OneJaeAtATime@OneJaeAtATime.com](https://micro.blog/OneJaeAtATime@OneJaeAtATime.com). I figured it was worth moving my Micro.blog to my own domain.\n",
+				"date_published": "2023-03-09T06:56:38-05:00",
+				"url": "https://onejaeatatime.com/2023/03/09/slight-change-to.html"
+			},
+			{
 				"id": "http://onejaeatatime.micro.blog/2022/12/01/180640.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"uploads/2022/d58b88412b.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a pink flower on top of a lighter pink background. Text reads I am a trans woman. I am not a him, I am not a he. Do not call me sir. Every time you assume you make it impossible for me to be.  The author is Jae Bloom\">\n",
 				"date_published": "2022-12-01T18:06:40-05:00",
 				"url": "https://onejaeatatime.com/2022/12/01/180640.html"
-			},
-			{
-				"id": "http://onejaeatatime.micro.blog/2022/12/01/i-am-a.html",
-				
-				"content_html": "<p>I am a #trans woman.\nI am not a him, I’m not a he.\nDo not call me sir.\nEvery time you assume you make it impossible for me to be.</p>\n",
-				"content_text": "I am a #trans woman.\nI am not a him, I’m not a he.\nDo not call me sir.\nEvery time you assume you make it impossible for me to be.\n",
-				"date_published": "2022-12-01T17:51:59-05:00",
-				"url": "https://onejaeatatime.com/2022/12/01/i-am-a.html",
-				"tags": ["Trans Journey","Poetry"]
 			},
 			{
 				"id": "http://onejaeatatime.micro.blog/2022/11/27/wordpress-is-an.html",
