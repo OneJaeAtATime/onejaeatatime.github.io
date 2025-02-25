@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://onejaeatatime.micro.blog/2025/02/25/moved-out.html",
+				"title": "Moved Out",
+				"content_html": "<p>I moved out of my apartment today. It felt very surreal to be moving out of the place where I lived for the first time on my own. I&rsquo;ll be honest, I began to cry as I was packing up. I cried as I loaded the final things into my car. I said goodbye to my place. But it&rsquo;s an adventure onto the next thing. My next move will be to move in with my fiance. To a new journey ahead for me.</p>\n",
+				"content_text": "I moved out of my apartment today. It felt very surreal to be moving out of the place where I lived for the first time on my own. I'll be honest, I began to cry as I was packing up. I cried as I loaded the final things into my car. I said goodbye to my place. But it's an adventure onto the next thing. My next move will be to move in with my fiance. To a new journey ahead for me.\n",
+				"date_published": "2025-02-25T16:23:16-05:00",
+				"url": "https://onejaeatatime.com/2025/02/25/moved-out.html"
+			},
+			{
+				"id": "http://onejaeatatime.micro.blog/2025/02/23/i-cried-yesterday-while-cleaning.html",
+				
+				"content_html": "<p>I cried yesterday while cleaning out my apartment. A place where I had a lot of things happen to me. I began dating my partner in this place. It was a place where I spent two years of my life.</p>\n<p>The next step is moving to the U.K. Though I don’t know when that will be. To my next adventure.</p>\n",
+				"content_text": "I cried yesterday while cleaning out my apartment. A place where I had a lot of things happen to me. I began dating my partner in this place. It was a place where I spent two years of my life.\n\nThe next step is moving to the U.K. Though I don’t know when that will be. To my next adventure.\n",
+				"date_published": "2025-02-23T10:18:12-05:00",
+				"url": "https://onejaeatatime.com/2025/02/23/i-cried-yesterday-while-cleaning.html"
+			},
+			{
 				"id": "http://onejaeatatime.micro.blog/2025/02/20/upgraded-to-pihole-v.html",
 				"title": "Upgraded to Pi-hole V6",
 				"content_html": "<p>Updated my home Pi-hole to <a href=\"https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/\">V6</a>. So far everything is running smoothly.</p>\n<p>Liking the interface improvements so far. You can easily see things like which network interfaces your Pi-hole is using. The temperature gauge was removed which is a shame as I sometimes used the Pi-hole admin to monitor my Pi.</p>\n<p>Overall a great update and one that I think helps make Pi-hole easier to use especially for less techy folk. The pi-hole has been one of the best additions to my arsenal after my fiance gifted me my Pi for Christmas. We actually put a Pi in our bead store because it helps stop a lot of bad actors.</p>\n",
